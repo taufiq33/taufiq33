@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taufiq33
+- 👋 Hi, I’m Taufiq Hidayat, @taufiq33
 - 👀 I’m interested in MERN (MongoDB, ExpressJS, React JS, NodeJS) Stack technology
 - 🌱 I’m currently learning MERN Stack to achieve my dream become a Software developer
 - 📫 How to reach me ... by telegram https://t.me/taufiq_h or email taufiqhidayat1908@gmail.com
