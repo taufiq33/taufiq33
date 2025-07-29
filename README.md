@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Taufiq Hidayat, @taufiq33
-- 👀 I’m interested in MERN (MongoDB, ExpressJS, React JS, NodeJS) Stack technology
-- 🌱 I’m currently learning MERN Stack to achieve my dream become a Software developer
-- 📫 How to reach me ... by telegram https://t.me/taufiq_h or email taufiqhidayat1908@gmail.com
+# Taufiq Hidayat
+
+Frontend developer from Sukoharjo. 🇮🇩
+
+Building web apps with React ecosystem.
+
+📧 taufiqhidayat1908@gmail.com | 💬 [@taufiq_h](https://t.me/taufiq_h) 
 
 <!---
 taufiq33/taufiq33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
